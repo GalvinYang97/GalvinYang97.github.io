@@ -13,22 +13,22 @@
       "institution": "The University of Texas at Austin",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "Fall 2019",
-      "endDate": "Spring 2025"
+      "startDate": "Aug. 2019",
+      "endDate": "May 2025"
     },
     {
       "institution": "University of Illinois Urbana-Champaign",
       "area": "Statistics and Computer Science; Mathematics",
       "studyType": "Bachelor of Science",
-      "startDate": "Fall 2015",
-      "endDate": "Spring 2019"
+      "startDate": "Aug. 2015",
+      "endDate": "May 2019"
     }
   ],
   "work": [
     {
       "name": "Princeton University",
       "position": "Visiting Student",
-      "startDate": "September 2023",
+      "startDate": "Sept. 2023",
       "endDate": "Present",
       "summary": "Hosted by Prof. Jason D. Lee"
     },
@@ -36,7 +36,7 @@
       "name": "Lawrence Livermore National Laboratory",
       "position": "PhD Intern",
       "startDate": "June 2023",
-      "endDate": "August 2023",
+      "endDate": "Aug. 2023",
       "summary": "Hosted by Dr. Bhavya Kailkhura"
     },
     {
